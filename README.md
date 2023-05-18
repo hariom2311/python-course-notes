@@ -35,6 +35,4 @@ In the provided code examples, you will find explanations and demonstrations of 
 
 Stay tuned for the upcoming days, where we will dive deeper into Python programming, covering topics such as control flow, loops, functions, data structures, file handling, and much more!
 
-Remember to update the description as you progress with more days and topics in your repository. This way, learners will have a clear understanding of what to expect and how the content is structured.
-
 Good luck with your Python repository, and happy coding!
