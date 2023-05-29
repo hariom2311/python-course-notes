@@ -1,4 +1,10 @@
-##############lambda#####################
+"""
+Lambda:
+- The code demonstrates the usage of lambda functions in Python.
+- The `mul` function is a normal function that multiplies two numbers.
+- The `x` variable is a lambda function that does the same multiplication.
+- The output is printed for both the normal function and the lambda function.
+"""
 
 # this is normal function
 def mul(a, b):
@@ -10,7 +16,14 @@ print(mul(5, 6))
 x = lambda a, b : a * b
 print(x(5, 6))
 
-################ map ####################
+"""
+Map:
+- The code shows examples of using the `map()` function in Python.
+- First, a list of strings `my_pets` is transformed to uppercase using a for loop.
+- Then, the same transformation is achieved using the `map()` function with `str.upper`.
+- Lastly, a lambda function is used with `map()` to uppercase the strings in `my_pets`.
+- The outputs of each transformation are printed.
+"""
 # without map() method
 my_pets = ['alfred', 'tabitha', 'william', 'arla']
 uppered_pets = []
@@ -43,8 +56,14 @@ result = list(map(round, circle_areas, range(1, 7)))
 
 print(result)
 
-################## filter ####################
 
+"""
+Filter:
+- The code demonstrates the usage of the `filter()` function in Python.
+- A list of scores is filtered to include only scores greater than 75 using a defined function.
+- The same filtering is done using a lambda function with `filter()`.
+- The filtered scores are printed as the output.
+"""
 #filter method
 
 scores = [66, 90, 68, 59, 76, 60, 88, 74, 81, 65]
@@ -63,8 +82,16 @@ palindromes = list(filter(lambda word: word == word[::-1], dromes))
 
 print(palindromes)
 
-################## reduce ##################
-
+"""
+Reduce:
+- The code shows examples of using the `reduce()` function in Python.
+- First, a list of numbers is reduced by adding them together using a defined function.
+- The same reduction is achieved using `reduce()` with a lambda function for addition.
+- The result of the reduction is printed as the output.
+- Another example demonstrates the usage of `reduce()` with an initial value provided.
+- The numbers are again reduced by addition, starting from 10.
+- The result of the reduction is printed as the output.
+"""
 # example of reduce()
 from functools import reduce
 
@@ -86,4 +113,3 @@ def custom_sum(first, second):
 
 result = reduce(custom_sum, numbers, 10)
 print(result)
-
