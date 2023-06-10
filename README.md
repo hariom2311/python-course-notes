@@ -1,6 +1,29 @@
 # Python Notes
 This repository is designed to provide you with comprehensive notes and examples for learning Python programming. Whether you are a beginner getting started with Python or an experienced developer looking to refresh your knowledge, this repository is here to support your learning journey.
 
+# Steps To Clone Repository
+
+### Windows/Ubuntu
+
+1. Open the command prompt or Git Bash on your Windows machine.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command to clone the repository: 
+```
+git clone https://github.com/hariom2311/python-course-notes
+```
+
+## Pull Updates
+
+To get the latest updates from the remote repository, you can follow these steps:
+
+1. Open a terminal or command prompt.
+2. Navigate to the cloned repository directory.
+3. Run the following command to pull the updates:
+```
+git pull origin master
+```
+
+
 # Day 1: Introduction to Python and Variables
 Day 1 covers the fundamental concepts of Python programming. In this session, you will learn about variables, data types, and basic string manipulation. The code examples provided demonstrate how to assign variables, perform type checking, and work with strings. Additionally, the concept of multiple variable assignment and accessing elements through slicing is explained. You will also explore various string methods for modifying and manipulating strings.
 

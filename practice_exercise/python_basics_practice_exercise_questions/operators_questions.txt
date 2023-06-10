@@ -1,0 +1,12 @@
+Exercise Questions:
+
+Question 1: Write a Python program to calculate the area of a triangle using the formula: area = (base * height) / 2. Take user input for the base and height.
+
+Question 2: Write a Python program to calculate the circumference and area of a circle using the formulae: circumference = 2 * π * radius and area = π * radius^2. Take user input for the radius.
+
+Question 3: Write a Python program to calculate the square root of a given number using the math module. Take user input for the number.
+
+Question 4: Write a Python program to check if a given number is divisible by both 3 and 5. Take user input for the number and print "Divisible" if it is divisible, otherwise print "Not divisible".
+
+Question 5: Write a Python program to perform bitwise operations on two integers. Take user input for the two numbers and perform bitwise AND, OR, and XOR operations on them.
+
