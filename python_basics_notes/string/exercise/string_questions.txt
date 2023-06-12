@@ -1,0 +1,9 @@
+Question 1: Write a Python program to count the number of characters in a string.
+
+Question 2: Write a Python program to reverse a string.
+
+Question 3: Write a Python program to check if a string is a palindrome.
+
+Question 4: Write a Python program to convert the first letter of each word in a string to uppercase.
+
+Question 5: Write a Python program to check if a string is an anagram of another string.
