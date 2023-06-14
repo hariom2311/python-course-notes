@@ -1,0 +1,9 @@
+Question 1: Write a Python program to count the frequency of elements in a given list and store the results in a dictionary.
+
+Question 2: Write a Python program to merge two dictionaries into a single dictionary.
+
+Question 3: Write a Python program to find the key with the maximum value in a dictionary.
+
+Question 4: Write a Python program to remove a key from a dictionary.
+
+Question 5: Write a Python program to check if a key exists in a dictionary.
