@@ -1,0 +1,9 @@
+Question 1: Write a Python program to create a tuple with elements "apple", "banana", and "cherry". Access the second element of the tuple.
+
+Question 2: Write a Python program to concatenate two tuples (tuple1 and tuple2) and create a new tuple.
+
+Question 3: Write a Python program to count the number of occurrences of a value in a tuple.
+
+Question 4: Write a Python program to convert a tuple into a list.
+
+Question 5: Write a Python program to check if a given element exists in a tuple.
